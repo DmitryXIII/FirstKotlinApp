@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_stroke">1dp</dimen>
+    <dimen name="dim_8dp">8dp</dimen>
+    <dimen name="dim_40dp">40dp</dimen>
+    <dimen name="dim_55dp">55dp</dimen>
+    <dimen name="zero_value">0dp</dimen>
+    <dimen name="cats_list_text_size">16sp</dimen>
+</resources>
